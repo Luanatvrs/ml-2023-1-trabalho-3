@@ -1,0 +1,23 @@
+EN: 100,100
+Predicted Salary in USD: [100000]
+Acurácia:  0.03306451612903226
+
+EN: 200,200
+Predicted Salary in USD: [145000]
+Acurácia:  0.04032258064516129
+
+EN: 300,300
+Predicted Salary in USD: [145000]
+Acurácia:  0.05
+SE: 300,300
+Predicted Salary in USD: [140000]
+Acurácia:  0.041935483870967745
+
+SE: 200,200
+Predicted Salary in USD: [200000]
+Acurácia:  0.049193548387096775
+
+SE: 100, 100
+Predicted Salary in USD: [165000]
+Acurácia:  0.042741935483870966
+
