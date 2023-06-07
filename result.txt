@@ -21,3 +21,15 @@ SE: 100, 100
 Predicted Salary in USD: [165000]
 Acurácia:  0.042741935483870966
 
+Model three training data:
+Mean Squared Error:  2522396412.669034 
+Mean Absolute Error:  38315.38556993357
+R2 Score:  0.34994271792947285         
+
+Model three test data:
+Mean Squared Error:  3086184760.417561 
+Mean Absolute Error:  41886.24579492179
+R2 Score:  0.2581120595646922 
+
+Predicted Salary in USD: [118600.86940365]
+
